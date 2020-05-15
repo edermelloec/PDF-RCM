@@ -1,0 +1,5 @@
+C:\Users\Éder Mello\Desktop\Util\FIORILLI.FDB
+localhost
+3050
+sysdba
+masterkey
